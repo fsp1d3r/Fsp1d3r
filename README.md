@@ -19,4 +19,4 @@ Open the HTML file in any browser to test website security vulnerabilities.
 - All processing is local
 - Use for security education only
 
-**Files:** Just 1 HTML file
+

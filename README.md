@@ -1,4 +1,4 @@
-# 🕷️ Spider Cyber Lab
+# 🕷️ Sp1d3r Cyber Lab
 
 ### ⚡ Offensive Security • Threat Hunting • Digital Forensics
 
@@ -28,7 +28,7 @@ I actively participate in **Capture The Flag competitions**, security research, 
 # 🚀 Cybersecurity Mission
 
 ```
-   Detect → Exploit → Analyze → Defend
+Detect → Exploit → Analyze → Defend
 ```
 
 My goal is to **think like an attacker and defend like a security engineer**.
@@ -64,20 +64,6 @@ I focus on:
 
 ---
 
-# 🧰 Tools Arsenal
-
-| Category         | Tools                 |
-| ---------------- | --------------------- |
-| Web Security     | Burp Suite, OWASP ZAP |
-| Network          | Nmap, Wireshark       |
-| Exploitation     | Metasploit            |
-| Active Directory | BloodHound            |
-| Monitoring       | Splunk, ELK Stack     |
-| Automation       | Python, Bash          |
-| OS               | Linux                 |
-
----
-
 # 🏴‍☠️ CTF & Security Research
 
 ⚡ Regular **CTF competitor** solving challenges in:
@@ -92,22 +78,6 @@ I also document **vulnerabilities, attack techniques, and security tools**.
 
 ---
 
-# 🧪 Featured Cyber Projects
-
-🔐 **Pentest Toolkit**
-Collection of automation tools for penetration testing.
-
-🕵️ **Threat Hunter Scripts**
-Python tools for detecting suspicious activity.
-
-📊 **SOC Log Analyzer**
-Security log analysis scripts for threat detection.
-
-🐧 **Linux Security Tools**
-Hardening and monitoring utilities for Linux systems.
-
----
-
 # 🧠 Current Research
 
 * Malware Analysis
@@ -115,22 +85,6 @@ Hardening and monitoring utilities for Linux systems.
 * Threat Intelligence
 * Red Team Tactics
 * Security Automation
-
----
-
-# 🌐 Connect With Me
-
-💻 GitHub
-https://github.com/yourusername
-
-🔗 LinkedIn
-https://linkedin.com/in/yourusername
-
-🐦 Twitter/X
-https://twitter.com/yourusername
-
-🌍 Website
-https://yourwebsite.com
 
 ---
 

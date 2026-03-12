@@ -1,110 +1,110 @@
-# 🛡️ Cybersecurity Professional | Penetration Tester | Threat Hunter
+# 🛡️ Cybersecurity Professional | Penetration Tester | DFIR Specialist
 
-**Cybersecurity Professional | WAPT & NPT Expert | DFIR Specialist | SOC Analyst | Linux Enthusiast | CTF Competitor**
-
----
-
-## 👋 Introduction
-
-I am a **Cybersecurity Professional and Penetration Tester** passionate about securing digital systems and identifying vulnerabilities before attackers do. My work focuses on **ethical hacking, threat detection, incident response, and security research**.
-
-With hands-on experience in **web and network penetration testing**, **security monitoring**, and **digital forensics**, I actively contribute to improving cybersecurity posture through testing, analysis, and automation. I also participate in **Capture The Flag (CTF)** competitions and continuously explore new attack and defense techniques.
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Professional-red)
+![Pentester](https://img.shields.io/badge/Penetration%20Tester-WAPT%20%7C%20NPT-blue)
+![SOC Analyst](https://img.shields.io/badge/SOC-Analyst-green)
+![CTF Player](https://img.shields.io/badge/CTF-Competitor-purple)
+![Linux](https://img.shields.io/badge/Linux-Enthusiast-yellow)
 
 ---
 
-## 📌 Professional Summary
+## 👋 Hello, I'm a Cybersecurity Professional
 
-Experienced in identifying security weaknesses, performing **penetration testing**, investigating incidents, and conducting **threat hunting** across enterprise environments.
+I am a **Cybersecurity Professional and Penetration Tester** with hands-on experience in identifying, analyzing, and mitigating security vulnerabilities across web applications, networks, and enterprise systems.
 
-Key focus areas include:
+My expertise spans **Web Application Penetration Testing (WAPT)**, **Network Penetration Testing (NPT)**, **Digital Forensics & Incident Response (DFIR)**, and **Security Operations Center (SOC)** operations.
 
-* Detecting and exploiting vulnerabilities in applications and networks
-* Monitoring and analyzing security events in **SOC environments**
-* Performing **digital forensics and incident response investigations**
-* Researching emerging cyber threats and attack techniques
+I actively participate in **Capture The Flag (CTF)** competitions, perform **threat hunting**, and conduct **security research** to stay ahead of evolving cyber threats.
+
+I am also a passionate **Linux enthusiast** who enjoys building tools, automating security workflows, and exploring offensive and defensive security techniques.
 
 ---
 
-## ⚡ Skills & Expertise
+# 🚀 Skills & Expertise
 
 * 🔐 Web Application Penetration Testing (WAPT)
 * 🌐 Network Penetration Testing (NPT)
 * 🕵️ Digital Forensics & Incident Response (DFIR)
-* 🛡️ Security Operations Center (SOC) Monitoring
+* 🛡️ Security Operations Center (SOC)
 * 🎯 Threat Hunting
 * 🔍 Vulnerability Assessment
-* 🐧 Linux System Security
-* 🔴 Red Teaming
-* 🔵 Blue Team Operations
+* 🐧 Linux Security & Hardening
 
 ---
 
-## 🧰 Tools & Technologies
+# 🧰 Tools & Technologies
 
-**Security Testing**
+### 🔎 Security Testing
 
 * Burp Suite
 * Nmap
 * Metasploit
-* OWASP ZAP
-
-**Network & Analysis**
-
 * Wireshark
 * BloodHound
 
-**Security Monitoring**
+### 📊 Security Monitoring
 
 * Splunk
-* ELK Stack
+* ELK Stack (Elasticsearch, Logstash, Kibana)
 
-**Scripting & Systems**
+### 💻 Scripting & Automation
 
 * Python
 * Bash
-* Linux
+* Linux CLI
 
 ---
 
-## 🏴‍☠️ CTF & Security Research
+# 🏴‍☠️ CTF & Security Research
 
-I actively participate in **Capture The Flag (CTF)** competitions and cybersecurity labs to sharpen my offensive and defensive skills.
+I actively participate in **Capture The Flag (CTF)** competitions and cybersecurity challenges to sharpen my offensive and defensive security skills.
 
-My research interests include **web exploitation, network attacks, privilege escalation, and forensic analysis**, along with exploring new vulnerabilities and documenting findings through technical write-ups.
+Areas of focus include:
 
----
+* Web exploitation
+* Privilege escalation
+* Network attacks
+* Digital forensics challenges
+* Reverse engineering
+* Malware analysis
 
-## 📂 Projects
-
-Some repositories may include:
-
-* 🔍 Penetration testing tools
-* 🛡️ Security automation scripts
-* 📊 Log analysis and monitoring utilities
-* 🔐 Vulnerability research projects
-* 🧪 Exploit development experiments
+I also conduct **independent security research** and document findings through technical write-ups and tools.
 
 ---
 
-## 📚 Learning & Interests
+# 📂 Cybersecurity Projects
 
-Continuously expanding knowledge in:
+Here are some types of projects you may find in my repositories:
+
+* 🔍 **Vulnerability Scanning Tools**
+* 🛡️ **Custom Penetration Testing Scripts**
+* 📊 **Security Monitoring & Log Analysis Tools**
+* 🔐 **Cybersecurity Automation Projects**
+* 🧪 **Exploit Development & Security Research**
+* 🐧 **Linux Security Utilities**
+
+---
+
+# 📚 Learning & Interests
+
+Cybersecurity is constantly evolving, and I continuously work on improving my skills in areas such as:
 
 * 🦠 Malware Analysis
 * 🔬 Reverse Engineering
 * 🧠 Threat Intelligence
-* ⚙️ Security Automation
 * 🔴 Red Team Operations
+* 🔵 Blue Team Defense
+* ⚔️ Adversary Simulation
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 * 💻 GitHub: https://github.com/yourusername
 * 🔗 LinkedIn: https://linkedin.com/in/yourusername
-* 🐦 Twitter/X: https://twitter.com/yourusername
+* 🐦 Twitter: https://twitter.com/yourusername
 * 🌍 Website: https://yourwebsite.com
 
 ---
 
-⭐ *Always learning, always hacking — ethically.*
+⭐ **If you find my projects useful, feel free to star the repositories and connect!**

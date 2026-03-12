@@ -1,110 +1,147 @@
-# 🛡️ Cybersecurity Professional | Penetration Tester | DFIR Specialist
+# 🕷️ Spider Cyber Lab
 
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Professional-red)
-![Pentester](https://img.shields.io/badge/Penetration%20Tester-WAPT%20%7C%20NPT-blue)
-![SOC Analyst](https://img.shields.io/badge/SOC-Analyst-green)
-![CTF Player](https://img.shields.io/badge/CTF-Competitor-purple)
-![Linux](https://img.shields.io/badge/Linux-Enthusiast-yellow)
+### ⚡ Offensive Security • Threat Hunting • Digital Forensics
 
----
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Cybersecurity+Researcher;Penetration+Tester;Threat+Hunter;CTF+Competitor;Linux+Security+Enthusiast&center=true&width=500&height=50">
+</p>
 
-## 👋 Hello, I'm a Cybersecurity Professional
-
-I am a **Cybersecurity Professional and Penetration Tester** with hands-on experience in identifying, analyzing, and mitigating security vulnerabilities across web applications, networks, and enterprise systems.
-
-My expertise spans **Web Application Penetration Testing (WAPT)**, **Network Penetration Testing (NPT)**, **Digital Forensics & Incident Response (DFIR)**, and **Security Operations Center (SOC)** operations.
-
-I actively participate in **Capture The Flag (CTF)** competitions, perform **threat hunting**, and conduct **security research** to stay ahead of evolving cyber threats.
-
-I am also a passionate **Linux enthusiast** who enjoys building tools, automating security workflows, and exploring offensive and defensive security techniques.
+<p align="center">
+  <img src="https://img.shields.io/badge/Cybersecurity-Researcher-red?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Penetration%20Tester-WAPT%20%7C%20NPT-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/DFIR-Specialist-green?style=for-the-badge">
+  <img src="https://img.shields.io/badge/SOC-Analyst-purple?style=for-the-badge">
+</p>
 
 ---
 
-# 🚀 Skills & Expertise
+# 👨‍💻 About Me
 
-* 🔐 Web Application Penetration Testing (WAPT)
-* 🌐 Network Penetration Testing (NPT)
-* 🕵️ Digital Forensics & Incident Response (DFIR)
-* 🛡️ Security Operations Center (SOC)
-* 🎯 Threat Hunting
-* 🔍 Vulnerability Assessment
-* 🐧 Linux Security & Hardening
+🛡️ Cybersecurity professional focused on **penetration testing, digital forensics, and threat hunting**.
+
+I specialize in identifying vulnerabilities in **web applications, networks, and enterprise environments**, helping organizations strengthen their defenses against modern cyber threats.
+
+I actively participate in **Capture The Flag competitions**, security research, and build tools that help automate security testing and incident response.
 
 ---
 
-# 🧰 Tools & Technologies
+# 🚀 Cybersecurity Mission
 
-### 🔎 Security Testing
+```
+   Detect → Exploit → Analyze → Defend
+```
 
-* Burp Suite
-* Nmap
-* Metasploit
-* Wireshark
-* BloodHound
+My goal is to **think like an attacker and defend like a security engineer**.
 
-### 📊 Security Monitoring
+I focus on:
 
-* Splunk
-* ELK Stack (Elasticsearch, Logstash, Kibana)
+* Advanced penetration testing
+* Threat detection & hunting
+* Security automation
+* DFIR investigations
 
-### 💻 Scripting & Automation
+---
 
-* Python
-* Bash
-* Linux CLI
+# ⚔️ Skills & Expertise
+
+🕷️ **Offensive Security**
+
+* Web Application Penetration Testing (WAPT)
+* Network Penetration Testing (NPT)
+* Red Team Operations
+
+🛡️ **Defensive Security**
+
+* Security Operations Center (SOC) Monitoring
+* Threat Hunting
+* Incident Response
+
+🔎 **Security Analysis**
+
+* Digital Forensics (DFIR)
+* Vulnerability Assessment
+* Linux Security Hardening
+
+---
+
+# 🧰 Tools Arsenal
+
+| Category         | Tools                 |
+| ---------------- | --------------------- |
+| Web Security     | Burp Suite, OWASP ZAP |
+| Network          | Nmap, Wireshark       |
+| Exploitation     | Metasploit            |
+| Active Directory | BloodHound            |
+| Monitoring       | Splunk, ELK Stack     |
+| Automation       | Python, Bash          |
+| OS               | Linux                 |
 
 ---
 
 # 🏴‍☠️ CTF & Security Research
 
-I actively participate in **Capture The Flag (CTF)** competitions and cybersecurity challenges to sharpen my offensive and defensive security skills.
-
-Areas of focus include:
+⚡ Regular **CTF competitor** solving challenges in:
 
 * Web exploitation
 * Privilege escalation
-* Network attacks
-* Digital forensics challenges
 * Reverse engineering
-* Malware analysis
+* Forensics
+* Cryptography
 
-I also conduct **independent security research** and document findings through technical write-ups and tools.
-
----
-
-# 📂 Cybersecurity Projects
-
-Here are some types of projects you may find in my repositories:
-
-* 🔍 **Vulnerability Scanning Tools**
-* 🛡️ **Custom Penetration Testing Scripts**
-* 📊 **Security Monitoring & Log Analysis Tools**
-* 🔐 **Cybersecurity Automation Projects**
-* 🧪 **Exploit Development & Security Research**
-* 🐧 **Linux Security Utilities**
+I also document **vulnerabilities, attack techniques, and security tools**.
 
 ---
 
-# 📚 Learning & Interests
+# 🧪 Featured Cyber Projects
 
-Cybersecurity is constantly evolving, and I continuously work on improving my skills in areas such as:
+🔐 **Pentest Toolkit**
+Collection of automation tools for penetration testing.
 
-* 🦠 Malware Analysis
-* 🔬 Reverse Engineering
-* 🧠 Threat Intelligence
-* 🔴 Red Team Operations
-* 🔵 Blue Team Defense
-* ⚔️ Adversary Simulation
+🕵️ **Threat Hunter Scripts**
+Python tools for detecting suspicious activity.
+
+📊 **SOC Log Analyzer**
+Security log analysis scripts for threat detection.
+
+🐧 **Linux Security Tools**
+Hardening and monitoring utilities for Linux systems.
+
+---
+
+# 🧠 Current Research
+
+* Malware Analysis
+* Reverse Engineering
+* Threat Intelligence
+* Red Team Tactics
+* Security Automation
 
 ---
 
 # 🌐 Connect With Me
 
-* 💻 GitHub: https://github.com/yourusername
-* 🔗 LinkedIn: https://linkedin.com/in/yourusername
-* 🐦 Twitter: https://twitter.com/yourusername
-* 🌍 Website: https://yourwebsite.com
+💻 GitHub
+https://github.com/yourusername
+
+🔗 LinkedIn
+https://linkedin.com/in/yourusername
+
+🐦 Twitter/X
+https://twitter.com/yourusername
+
+🌍 Website
+https://yourwebsite.com
 
 ---
 
-⭐ **If you find my projects useful, feel free to star the repositories and connect!**
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight">
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight">
+</p>
+
+<p align="center">
+⚡ "Hack the system. Secure the future."
+</p>
